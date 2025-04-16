@@ -1,0 +1,9 @@
+Openmp.sln
+x64\Debug
+Openmpi\Openmpi.vcxproj.user
+Openmpi\Openmpi.vcxproj.filters
+Openmpi\Openmpi.vcxproj
+Openmpi\Openmp.vcxproj.user
+Openmpi\Openmp.vcxproj.filters
+Openmpi\Openmp.vcxproj
+.vs
